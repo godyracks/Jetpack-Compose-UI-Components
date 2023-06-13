@@ -32,7 +32,7 @@ The repository includes a variety of Jetpack Compose UI elements, including but 
 
 To get started with using the Jetpack Compose UI Elements Repository, follow these steps:
 
-1. Clone the repository: ` git clone https://github.com/GodyRacks/Jetpack-Compose-UI-Elements.git`
+1. Clone the repository: ` git clone https://github.com/GodyRacks/Jetpack-Compose-UI-Components.git`
 2. Open the project in Android Studio or your preferred IDE.
 3. Explore the different UI elements available in the repository.
 4. Copy the desired UI elements to your own project or modify them as needed.
