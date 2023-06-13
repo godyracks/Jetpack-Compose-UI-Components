@@ -1,4 +1,4 @@
-# Jetpack Compose UI Elements Repository
+# Jetpack Compose UI Elements Personal Central Repository
 
 Welcome to the Jetpack Compose UI Elements Repository! This repository serves as a central collection of common and basic UI elements built with Jetpack Compose, a modern UI toolkit for building native Android apps. 
 
